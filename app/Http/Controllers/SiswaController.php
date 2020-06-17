@@ -90,7 +90,7 @@ public function cekStatus(){
 
 public function status(Request $request){
     $cari = $request->id_siswa;
-    $siswa = DB::table('siswa_baru')->where('id_siswa','LIKE',"%".$cari."%")->get();
+    $siswa = DB::table('siswa_baru')->where('id_siswa','LIKE',$cari)->get();
     return view('status')->with('siswa',$siswa);
 }
 

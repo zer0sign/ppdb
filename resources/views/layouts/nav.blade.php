@@ -37,7 +37,7 @@
     <img id="nav" src="{{URL::asset('/img/assets/logo.png')}}" width="50" height="50" class="d-inline-block align-top" alt="" loading="lazy">
     </div>
     <div class="name" style="margin-left: 3%; margin-top: -1%">
-    Pendaftaran Siswa Baru
+    Pendaftaran Siswa Baru 2021/2022
     <br>
     <b> SMK AL HUSAIN KELING</b>
     </div>

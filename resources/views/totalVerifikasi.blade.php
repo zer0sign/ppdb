@@ -40,10 +40,10 @@
             <thead class="thead-dark">
               <tr>
                 <th scope="col">Nomor</th>
+                <th scope="col">ID</th>
                 <th scope="col">Nama</th>
                 <th scope="col">Jurusan</th>
                 <th scope="col">Jenis Kelamin</th>
-                <th scope="col">ID</th>
                 <th scope="col">Asal Sekolah</th>
                 <th scope="col">Aksi</th>
               </tr>

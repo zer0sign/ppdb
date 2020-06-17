@@ -32,6 +32,4 @@
 @endforeach
 
 
-
-
 @include('layouts.js')

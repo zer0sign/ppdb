@@ -229,7 +229,7 @@
         <div class="sub">
         <label class="checkbox-inline"><input type="checkbox" name="ijazah" value="ada">Ijazah</label>
         <label class="checkbox-inline"><input type="checkbox" name="skhun" value="ada">SKHUN</label>
-        <label class="checkbox-inline"><input type="checkbox" name="akta" value="ada">AKTA</label>
+        <label class="checkbox-inline"><input type="checkbox" name="akta" value="ada">Akte</label>
         <label class="checkbox-inline"><input type="checkbox" name="kk" value="ada">KK</label>
         </div>
         <div class="sub">

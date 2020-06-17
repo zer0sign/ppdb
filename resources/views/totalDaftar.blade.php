@@ -40,10 +40,10 @@
             <thead class="thead-dark">
               <tr>
                 <th scope="col">Nomor</th>
+                <th scope="col">ID</th>
                 <th scope="col">Nama</th>
                 <th scope="col">Jurusan</th>
                 <th scope="col">Jenis Kelamin</th>
-                <th scope="col">ID</th>
                 <th scope="col">Asal Sekolah</th>
                 <th scope="col">Aksi</th>
               </tr>
@@ -53,10 +53,10 @@
               
               <tr>
                 <th scope="row">{{$siswa_baru->firstItem() + $index}}</th>
+                <td>{{$siswa->id_siswa}}</td>
                 <td style="width: 40%; height: 10%">{{$siswa->nama}}</td>
                 <td style="width: 30%">{{$siswa->jurusan}}</td>
                 <td>{{$siswa->jenis_kelamin}}</td>
-                <td>{{$siswa->id_siswa}}</td>
                 <td style="width: 30%">{{$siswa->asal_sekolah}}</td>
                 
                 <td>
