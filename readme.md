@@ -9,3 +9,5 @@ dalam website ini sudah ada fungsi seperti sebagai berikut:
 - dan beberapa fungsi pendukung lainnya
 
 web bisa diakses di :https://ppdbsmkalhusainkeling.000webhostapp.com/
+
+web ini masih dalam tahap alhpa: dan masih belum digunakan secara resmi, karena masih dalam tahap pengembangan
